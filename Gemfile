@@ -8,12 +8,12 @@ gem 'rails', '3.2.13'
 gem 'pg'
 
 group :development do
-  gem 'rspec-rails', '2.5.0'
+  gem 'rspec-rails', '2.14.1'
 end
 
 group :test do
-  gem 'rspec', '2.5.0'
-  gem 'webrat', '0.7.1'
+  gem 'rspec', '2.14.1'
+  gem 'webrat', '0.7.3'
 end
 
 # Gems used only for assets and not required
